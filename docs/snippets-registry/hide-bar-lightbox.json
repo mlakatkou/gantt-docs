@@ -1,0 +1,18 @@
+{
+  "key": "hide-bar-lightbox",
+  "snippetId": "pt81ffin",
+  "title": "Hide bar lightbox example",
+  "status": "active",
+  "usedIn": [
+    "docs/guides/milestones.md"
+  ],
+  "replaces": [
+    "/img/hide_bar.png"
+  ],
+  "tags": [
+    "milestone",
+    "hide-bar",
+    "lightbox"
+  ],
+  "lastReviewed": "2026-04-15"
+}

@@ -1,0 +1,17 @@
+{
+  "key": "hide-milestone",
+  "snippetId": "xjf8kyhj",
+  "title": "Hidden milestone example",
+  "status": "active",
+  "usedIn": [
+    "docs/guides/milestones.md"
+  ],
+  "replaces": [
+    "/img/hide_milestone.png"
+  ],
+  "tags": [
+    "milestone",
+    "hide-bar"
+  ],
+  "lastReviewed": "2026-04-15"
+}

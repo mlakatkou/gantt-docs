@@ -1,0 +1,16 @@
+{
+  "key": "milestone-type",
+  "snippetId": "6gsjp33t",
+  "title": "Milestone task visualization",
+  "status": "active",
+  "usedIn": [
+    "docs/guides/milestones.md"
+  ],
+  "replaces": [
+    "/img/type_milestone.png"
+  ],
+  "tags": [
+    "milestone"
+  ],
+  "lastReviewed": "2026-04-14"
+}

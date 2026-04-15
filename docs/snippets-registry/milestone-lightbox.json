@@ -1,0 +1,17 @@
+{
+  "key": "milestone-lightbox",
+  "snippetId": "my31k9eu",
+  "title": "Milestone lightbox example",
+  "status": "active",
+  "usedIn": [
+    "docs/guides/milestones.md"
+  ],
+  "replaces": [
+    "/img/milestone_lightbox.png"
+  ],
+  "tags": [
+    "milestone",
+    "lightbox"
+  ],
+  "lastReviewed": "2026-04-15"
+}

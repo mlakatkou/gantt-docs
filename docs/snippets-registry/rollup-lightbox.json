@@ -1,0 +1,18 @@
+{
+  "key": "rollup-lightbox",
+  "snippetId": "yef83m9u",
+  "title": "Rollup lightbox example",
+  "status": "active",
+  "usedIn": [
+    "docs/guides/milestones.md"
+  ],
+  "replaces": [
+    "/img/rollup.png"
+  ],
+  "tags": [
+    "milestone",
+    "rollup",
+    "lightbox"
+  ],
+  "lastReviewed": "2026-04-15"
+}

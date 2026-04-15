@@ -1,0 +1,17 @@
+{
+  "key": "rollup-milestone",
+  "snippetId": "b4zkd3rq",
+  "title": "Rollup milestone example",
+  "status": "active",
+  "usedIn": [
+    "docs/guides/milestones.md"
+  ],
+  "replaces": [
+    "/img/rollup_milestone.png"
+  ],
+  "tags": [
+    "milestone",
+    "rollup"
+  ],
+  "lastReviewed": "2026-04-15"
+}

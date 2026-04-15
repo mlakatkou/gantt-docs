@@ -1,7 +1,9 @@
-import Short from "./Short";
-import Signature from "./Signature";
+import Short from './Short';
+import Signature from './Signature';
+import LiveExample from './LiveExample';
 
 export {
-	Short,
-	Signature
+    Short,
+    Signature,
+    LiveExample,
 };
